@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Jr_no_PlacingNumbersInOrder" size="1.000000 1.287136" />
+    <ImageTarget name="Jr_no_MissingNumbers" size="1.000000 1.287136" />
+    <ImageTarget name="Jr_no_CountingForward" size="1.000000 1.287136" />
+    <ImageTarget name="Jr_no_CountingBackward" size="1.000000 1.287136" />
+    <ImageTarget name="Sr_no_PlaceInOrder" size="1.000000 1.287425" />
+    <ImageTarget name="Sr_no_MissingNumbers" size="1.000000 1.287914" />
+    <ImageTarget name="Sr_no_CountingForword" size="1.000000 1.287425" />
+    <ImageTarget name="Sr_no_CountingBackword" size="1.000000 1.286923" />
+    <ImageTarget name="Sr_no_Skip3" size="1.000000 1.287136" />
+    <ImageTarget name="Sr_no_Skip2" size="1.000000 1.287914" />
+    <ImageTarget name="Jr_no_10" size="1.000000 1.287425" />
+    <ImageTarget name="Jr_no_9" size="1.000000 1.287914" />
+    <ImageTarget name="Jr_no_8" size="1.000000 1.287425" />
+    <ImageTarget name="Jr_no_7" size="1.000000 1.287914" />
+    <ImageTarget name="Jr_no_6" size="1.000000 1.287466" />
+    <ImageTarget name="Jr_no_5" size="1.000000 1.287425" />
+    <ImageTarget name="Jr_no_4" size="1.000000 1.287425" />
+    <ImageTarget name="Jr_no_3" size="1.000000 1.287466" />
+    <ImageTarget name="Jr_no_2" size="1.000000 1.287466" />
+    <ImageTarget name="Jr_no_1" size="1.000000 1.287466" />
+  </Tracking>
+</QCARConfig>

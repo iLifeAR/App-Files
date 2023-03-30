@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Tiger_SrKG" size="1.000000 1.277778" />
+    <ImageTarget name="Sheep" size="1.000000 1.277778" />
+    <ImageTarget name="Rooster" size="1.000000 1.277778" />
+    <ImageTarget name="Pig_SrKG" size="1.000000 1.277778" />
+    <ImageTarget name="Duck_SrKG" size="1.000000 1.277778" />
+    <ImageTarget name="Pig" size="1.000000 1.277778" />
+    <ImageTarget name="Duck" size="1.000000 1.277778" />
+    <ImageTarget name="Cat_Nursery" size="1.000000 1.277778" />
+    <ImageTarget name="Bear_Nursery" size="1.000000 1.277778" />
+    <ImageTarget name="hippos" size="1.000000 1.277778" />
+    <ImageTarget name="Donkey" size="1.000000 1.277778" />
+    <ImageTarget name="Cat" size="1.000000 1.277778" />
+    <ImageTarget name="Dog" size="1.000000 1.277778" />
+    <ImageTarget name="Bear" size="1.000000 1.277778" />
+    <ImageTarget name="Zebra" size="1.000000 1.277778" />
+    <ImageTarget name="Tiger" size="1.000000 1.277778" />
+    <ImageTarget name="Swan" size="1.000000 1.277778" />
+    <ImageTarget name="Hippo" size="1.000000 1.277778" />
+    <ImageTarget name="Dilphasaurus" size="1.000000 1.277778" />
+    <ImageTarget name="Crocodile" size="1.000000 1.277778" />
+    <ImageTarget name="TRex" size="1.000000 1.277778" />
+    <ImageTarget name="Shark" size="1.000000 1.277778" />
+    <ImageTarget name="Rhino" size="1.000000 1.277778" />
+    <ImageTarget name="Owl" size="1.000000 1.277778" />
+    <ImageTarget name="Lion" size="1.000000 1.277778" />
+    <ImageTarget name="Horse" size="1.000000 1.277778" />
+  </Tracking>
+</QCARConfig>

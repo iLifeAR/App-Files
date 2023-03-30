@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Dino" size="50.000000 31.944445" />
+    <ImageTarget name="Zebra_G2" size="1.000000 1.277778" />
+    <ImageTarget name="Tiger_G2" size="1.000000 1.277778" />
+    <ImageTarget name="Swan_G2" size="1.000000 1.277778" />
+    <ImageTarget name="Hippostory_G2" size="1.000000 1.277778" />
+    <ImageTarget name="Dilphasaurus_G2" size="1.000000 1.277778" />
+    <ImageTarget name="Crocodile_G2" size="1.000000 1.277778" />
+    <ImageTarget name="T-Rex_G1" size="1.000000 1.277778" />
+    <ImageTarget name="Sharkstory_G1" size="1.000000 1.277778" />
+    <ImageTarget name="Rhino_G1" size="1.000000 1.277778" />
+    <ImageTarget name="Owls_G1" size="1.000000 1.277778" />
+    <ImageTarget name="Lion_G1" size="1.000000 1.277778" />
+    <ImageTarget name="Horsestory_G1" size="1.000000 1.277778" />
+    <ImageTarget name="Tigerstory_SR" size="1.000000 1.277778" />
+    <ImageTarget name="Sheep_SR" size="1.000000 1.277778" />
+    <ImageTarget name="Rooster_SR" size="1.000000 1.277778" />
+    <ImageTarget name="Pig_SR" size="1.000000 1.277778" />
+    <ImageTarget name="Duckstory_SR" size="1.000000 1.277778" />
+    <ImageTarget name="DinoUpdated" size="1.000000 0.638889" />
+    <ImageTarget name="group-1-Duck" size="1.000000 1.292929" />
+    <ImageTarget name="group-1-Pig" size="1.000000 1.292929" />
+    <ImageTarget name="group-1-Hippos" size="1.000000 1.292929" />
+    <ImageTarget name="group-1-Cat" size="1.000000 1.292929" />
+    <ImageTarget name="group-1-Bear" size="1.000000 1.292929" />
+    <ImageTarget name="Rocket_Colors_Print" size="1.000000 1.294118" />
+    <ImageTarget name="Dog" size="1.000000 1.294118" />
+    <ImageTarget name="Donkey" size="1.000000 1.294118" />
+    <ImageTarget name="Cat" size="1.000000 1.294118" />
+    <ImageTarget name="Bear" size="1.000000 1.294118" />
+  </Tracking>
+</QCARConfig>
